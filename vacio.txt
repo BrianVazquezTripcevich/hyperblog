@@ -1,0 +1,3 @@
+como hacer para usar git.
+
+ver cambios reflejados.
