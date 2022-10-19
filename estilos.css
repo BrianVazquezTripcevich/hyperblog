@@ -8,6 +8,16 @@ body
     padding: 0;
 }
 
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0,0 green,0 blue,0.5 alpha);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0,5cm;
+}
+
 #container
 {
     width: 70%;
