@@ -1,10 +1,10 @@
 body
 {
-    color: black;
+    color: #373;
     text-align: center;
     font-family: "curier";
     font-size: 30px;
-    margin: 0;
+    margin: 1;
     padding: 0;
 }
 
@@ -37,9 +37,8 @@ vertical-align: middle;
     font-size: 20px;
 }
 
-#post 
+#cabecera #logo
 {
-background: white;
-padding: 1cm;
+    background: white;
 
 }
